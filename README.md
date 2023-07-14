@@ -8,4 +8,4 @@
 - Bonus: Toggle the color scheme between light and dark mode
 link: countries-app-sigma-eosin.vercel.app
 
-@ link: https://countries-app-sigma-eosin.vercel.app/
+Demo =>  https://countries-app-sigma-eosin.vercel.app/
