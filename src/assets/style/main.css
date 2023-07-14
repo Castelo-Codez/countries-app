@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+    :root {
+        --body-bg: #fafafa;
+    }
+    body {
+        font-family: "Josefin Sans", sans-serif;
+        background-color: var(--body-bg);
+    }
+    .dark {
+        --body-bg: #202d36;
+    }
+    ::selection {
+        background: none;
+        color: none;
+    }
+}
